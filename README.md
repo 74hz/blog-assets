@@ -1,6 +1,6 @@
 # blog-assets
 
-这个仓库用于存储我的博客资源文件，包括图片等静态资源。
+这个仓库用于存储我的博客资源文件，包括图片、视频等静态资源。
 
 ## 使用方法
 
@@ -17,15 +17,15 @@ https://cdn.jsdelivr.net/gh/74hz/blog-assets@main/<文件路径>
 假设仓库中有以下文件结构：
 ```
 blog-assets/
-├── images/
+├── common/
 │   └── cover.webp
-└── assets/
+└── pages/
     └── photo.jpg
 ```
 
 可以通过以下链接访问：
-- `https://cdn.jsdelivr.net/gh/74hz/blog-assets@main/images/cover.webp`
-- `https://cdn.jsdelivr.net/gh/74hz/blog-assets@main/assets/photo.jpg`
+- `https://cdn.jsdelivr.net/gh/74hz/blog-assets@main/common/cover.webp`
+- `https://cdn.jsdelivr.net/gh/74hz/blog-assets@main/pages/photo.jpg`
 
 ## 说明
 
